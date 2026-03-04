@@ -1,0 +1,5 @@
+{
+  "name": "Apex Shift",
+  "description": "High-performance 2026 productivity suite with real-time telemetry, bi-monthly temporal tracking, and Liquid Glass UI.",
+  "requestFramePermissions": ["geolocation"]
+}
